@@ -56,7 +56,7 @@ public class WXService {
 		}
 		return null;
 	}
-	/**
+	/********
 	 * 接收消息
 	 * @param inputStream
 	 * @return
